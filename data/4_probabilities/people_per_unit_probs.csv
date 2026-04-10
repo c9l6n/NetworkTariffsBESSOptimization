@@ -1,0 +1,4 @@
+grid_type,1_person,2_persons,3_persons,4+_persons
+rural,0.34,0.35,0.15,0.16
+semiurb,0.4,0.32,0.13,0.15
+urban,0.5,0.27,0.11,0.12

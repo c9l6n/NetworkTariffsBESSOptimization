@@ -1,0 +1,8 @@
+trafo;i0_percent;pfe_kw;vkr_percent;sn_mva;vn_lv_kv;vn_hv_kv;vk_percent;shift_degree;vector_group;tap_side;tap_neutral;tap_min;tap_max;tap_step_degree;tap_step_percent;tap_phase_shifter;grid_level;transformer_cost;Cost source
+40 MVA 110/20 kV YNd5;0.05;18;0.34;40;20;110;16.2;150;0;hv;0;-9;9;0;1.5;FALSE;MV;470000;NRW Netzstudie
+63 MVA 110/10 kV YNd5;0.04;22;0.32;63;10;110;18;150;0;hv;0;-9;9;0;1.5;FALSE;MV;470000;NRW Netzstudie
+25 MVA 110/20 kV YNd5;0.07;14;0.41;25;20;110;12;150;0;hv;0;-9;9;0;1.5;FALSE;MV;470000;NRW Netzstudie
+0.16 MVA 20/0.4 kV DOTE 160/20  SGB;0.28751;0.46;1.46875;0.16;0.4;20;4;150;0;hv;0;-2;2;0;2.5;FALSE;LV;10000;NRW Netzstudie
+0.25 MVA 20/0.4 kV Dyn5 ASEA;0.35201;0.88;1.32;0.25;0.4;20;6;150;0;hv;0;-2;2;0;2.5;FALSE;LV;10000;NRW Netzstudie
+0.4 MVA 20/0.4 kV Dyn5 ASEA;0.30001;1.2;1.2;0.4;0.4;20;6;150;0;hv;0;-2;2;0;2.5;FALSE;LV;10000;NRW Netzstudie
+0.63 MVA 20/0.4 kV Dyn5 ASEA;0.261915;1.65;1.095238095;0.63;0.4;20;6;150;0;hv;0;-2;2;0;2.5;FALSE;LV;10000;NRW Netzstudie
