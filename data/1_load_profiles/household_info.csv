@@ -1,0 +1,27 @@
+household id,household area [m2],Number of inhabitants,PV system size [kWp],Battery system [kWh],Ventilation system
+3,140.0,2,0,0,False
+4,160.0,2,0,0,False
+5,160.0,3,0,0,True
+7,150.0,2,0,0,False
+8,160.0,2,0,0,False
+9,195.0,4,0,0,True
+10,135.0,3,0,0,False
+11,230.0,4,0,0,False
+12,112.0,2,0,0,False
+14,150.0,2,0,0,False
+16,136.0,4,0,0,True
+18,87.0,2,0,0,False
+19,203.0,2,0,0,False
+20,220.0,4,0,0,False
+21,110.0,1,0,0,False
+22,117.0,4,0,0,False
+23,113.0,2,0,0,False
+27,110.0,1,0,0,False
+28,145.0,3,0,0,False
+29,104.0,2,0,0,False
+30,0.0,3,0,0,False
+32,160.0,4,0,0,False
+35,100.0,3,0,0,False
+36,108.0,2,0,0,False
+38,190.0,2,0,0,False
+39,135.0,2,0,0,False
