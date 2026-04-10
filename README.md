@@ -74,13 +74,13 @@ This repository contains a modular simulation framework to assess the impact of 
    ```bash
    pip install pandas numpy simbench pandapower h5py
 
-2. **Execute the Full Simulation**:
+2. **Execute the Full Simulation (e.g., with seeds 41-45)**:
    ```bash
-   python main.py
+   python main.py scenarios --seeds 41-45
 
 3. **Analyze Results**:
 
-   Use notebooks in ipynb/ to generate results data as represented in paper.
+   Use notebook in ipynb/ to generate results data as represented in paper.
   
 ---
 
@@ -88,4 +88,4 @@ This repository contains a modular simulation framework to assess the impact of 
 
 The model will generate:
 - CSV summaries per grid archetype in /data/results/
-- Optional plots and tables via notebooks.
+- Optional plots and tables via notebooks
